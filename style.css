@@ -9,7 +9,7 @@ body {
 div {
     background-color: rgb(255, 255, 255);
     width: 290px;
-    height: 440px;
+    height: 450px;
     border-radius: 10px;
     margin-top: 150px;
     transition: 3s;
@@ -39,4 +39,5 @@ p {
     max-width: 240px;
     margin-left: 22px;
     color: rgb(126, 125, 125);
+
 }
